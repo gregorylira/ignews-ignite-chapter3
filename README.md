@@ -61,6 +61,7 @@ The following tools were used in this project:
 - [NextJs](https://nextjs.org/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [STRIPE](https://stripe.com/)
 - [SASS](https://sass-lang.com/)
 
 ## :white_check_mark: Requirements
